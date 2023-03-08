@@ -1,0 +1,17 @@
+.rodapé {
+    background-color: #333;
+    color: #fff;
+}
+.rodapé h2, .rodapé h4 {
+    color: #fff;
+}
+.linha {
+    border-top: 1px solid #fff;
+    padding-top: 10px;
+}
+.linha p {
+    margin-bottom: 0;
+}
+.rodapé a {
+    color: #fff;
+}
